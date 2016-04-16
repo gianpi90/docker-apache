@@ -1,7 +1,7 @@
-# docker-apache
-Docker-Apache Server Repository
+# apache-server
+Apache-Server folder
 
-This repository contains the Dockerfile and the other files of the project:
+This folder contains the Dockerfile and the other files of the project:
 <br>./Dockerfile
 <br>./apache-config.conf
 <br>./www/index.html
