@@ -15,3 +15,6 @@ Run this image with command:
 For debug run with command:
 <br>docker run -p \<port-host\>:80 -it \<id-image\> bash
 <br>apachectl start
+
+Docker apache-server repository page:
+<br>http://hub.docker.com/r/giancarlopiccolo/apache-server/
