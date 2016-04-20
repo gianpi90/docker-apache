@@ -19,3 +19,6 @@ For debug run the command:
 <br>docker run -p \<host-port\>:3306 -v \<host-DBpath\>:/var/lib/mysql -it \<id-image\> bash
 <br>startupDB.sh &
 <br>you may add user and password arguments with startupDB.sh
+
+Docker mysql-server repository page:
+<br>http://hub.docker.com/r/giancarlopiccolo/mysql-server/
