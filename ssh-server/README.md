@@ -21,3 +21,6 @@ For debug run the command:
 <br>docker run -p \<host-port\>:22 -it \<id-image\> bash
 <br>startSSH.sh &
 <br>you may add password argument with startSSH.sh
+
+Docker ssh-server repository page:
+<br>http://hub.docker.com/r/giancarlopiccolo/ssh-server/
