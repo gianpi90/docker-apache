@@ -13,3 +13,5 @@ For debug run with command:
 <br>docker run -p \<port-host\>:8080 -it \<id-image\> bash
 <br>$CATALINA_HOME/bin/startup.sh
 
+Docker tomcat-server repository page:
+<br>http://hub.docker.com/r/giancarlopiccolo/tomcat-server/
